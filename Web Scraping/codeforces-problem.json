@@ -1,0 +1,1178 @@
+[
+ {
+  "id": "",
+  "name": "",
+  "topics": null,
+  "solved-by": 0,
+  "difficulty": 0
+ },
+ {
+  "id": "1996G",
+  "name": "Penacony",
+  "topics": [
+   "brute force",
+   "data structures",
+   "greedy",
+   "hashing",
+   "probabilities"
+  ],
+  "solved-by": 870,
+  "difficulty": 0
+ },
+ {
+  "id": "1996F",
+  "name": "Bomb",
+  "topics": [
+   "binary search",
+   "greedy",
+   "math"
+  ],
+  "solved-by": 2739,
+  "difficulty": 0
+ },
+ {
+  "id": "1996E",
+  "name": "Decode",
+  "topics": [
+   "brute force",
+   "combinatorics",
+   "implementation",
+   "math"
+  ],
+  "solved-by": 6472,
+  "difficulty": 0
+ },
+ {
+  "id": "1996D",
+  "name": "Fun",
+  "topics": [
+   "binary search",
+   "combinatorics",
+   "math",
+   "number theory"
+  ],
+  "solved-by": 11553,
+  "difficulty": 0
+ },
+ {
+  "id": "1996C",
+  "name": "Sort",
+  "topics": [
+   "dp",
+   "greedy",
+   "sortings",
+   "strings"
+  ],
+  "solved-by": 17127,
+  "difficulty": 0
+ },
+ {
+  "id": "1996B",
+  "name": "Scale",
+  "topics": [
+   "implementation"
+  ],
+  "solved-by": 26179,
+  "difficulty": 0
+ },
+ {
+  "id": "1996A",
+  "name": "Legs",
+  "topics": [
+   "binary search",
+   "math",
+   "ternary search"
+  ],
+  "solved-by": 31816,
+  "difficulty": 0
+ },
+ {
+  "id": "1995E2",
+  "name": "Let Me Teach You a Lesson (Hard Version)",
+  "topics": [
+   "data structures",
+   "dp",
+   "matrices",
+   "two pointers"
+  ],
+  "solved-by": 142,
+  "difficulty": 2900
+ },
+ {
+  "id": "1995E1",
+  "name": "Let Me Teach You a Lesson (Easy Version)",
+  "topics": [
+   "2-sat",
+   "data structures",
+   "dp",
+   "matrices",
+   "two pointers"
+  ],
+  "solved-by": 200,
+  "difficulty": 2700
+ },
+ {
+  "id": "1995D",
+  "name": "Cases",
+  "topics": [
+   "bitmasks",
+   "brute force",
+   "dp",
+   "strings"
+  ],
+  "solved-by": 1373,
+  "difficulty": 2300
+ },
+ {
+  "id": "1995C",
+  "name": "Squaring",
+  "topics": [
+   "brute force",
+   "constructive algorithms",
+   "greedy",
+   "implementation",
+   "math",
+   "number theory"
+  ],
+  "solved-by": 5737,
+  "difficulty": 1800
+ },
+ {
+  "id": "1995B2",
+  "name": "Bouquet (Hard Version)",
+  "topics": [
+   "binary search",
+   "data structures",
+   "greedy",
+   "math",
+   "sortings",
+   "two pointers"
+  ],
+  "solved-by": 6525,
+  "difficulty": 1700
+ },
+ {
+  "id": "1995B1",
+  "name": "Bouquet (Easy Version)",
+  "topics": [
+   "binary search",
+   "brute force",
+   "greedy",
+   "sortings",
+   "two pointers"
+  ],
+  "solved-by": 13869,
+  "difficulty": 1100
+ },
+ {
+  "id": "1995A",
+  "name": "Diagonals",
+  "topics": [
+   "brute force",
+   "greedy",
+   "implementation",
+   "math"
+  ],
+  "solved-by": 19290,
+  "difficulty": 800
+ },
+ {
+  "id": "1994H",
+  "name": "Fortnite",
+  "topics": [
+   "combinatorics",
+   "constructive algorithms",
+   "games",
+   "greedy",
+   "hashing",
+   "interactive",
+   "math",
+   "number theory",
+   "strings"
+  ],
+  "solved-by": 118,
+  "difficulty": 3500
+ },
+ {
+  "id": "1994G",
+  "name": "Minecraft",
+  "topics": [
+   "bitmasks",
+   "brute force",
+   "dp",
+   "graphs",
+   "math"
+  ],
+  "solved-by": 653,
+  "difficulty": 2600
+ },
+ {
+  "id": "1994F",
+  "name": "Stardew Valley",
+  "topics": [
+   "constructive algorithms",
+   "dfs and similar",
+   "graphs",
+   "trees"
+  ],
+  "solved-by": 858,
+  "difficulty": 2500
+ },
+ {
+  "id": "1994E",
+  "name": "Wooden Game",
+  "topics": [
+   "bitmasks",
+   "greedy",
+   "math",
+   "trees"
+  ],
+  "solved-by": 3132,
+  "difficulty": 2000
+ },
+ {
+  "id": "1994D",
+  "name": "Funny Game",
+  "topics": [
+   "constructive algorithms",
+   "dsu",
+   "graphs",
+   "greedy",
+   "math",
+   "number theory",
+   "trees"
+  ],
+  "solved-by": 4138,
+  "difficulty": 1900
+ },
+ {
+  "id": "1994C",
+  "name": "Hungry Games",
+  "topics": [
+   "binary search",
+   "dp",
+   "two pointers"
+  ],
+  "solved-by": 8139,
+  "difficulty": 1600
+ },
+ {
+  "id": "1994B",
+  "name": "Fun Game",
+  "topics": [
+   "bitmasks",
+   "constructive algorithms",
+   "greedy",
+   "math"
+  ],
+  "solved-by": 13509,
+  "difficulty": 1100
+ },
+ {
+  "id": "1994A",
+  "name": "Diverse Game",
+  "topics": [
+   "constructive algorithms",
+   "greedy",
+   "implementation"
+  ],
+  "solved-by": 17162,
+  "difficulty": 800
+ },
+ {
+  "id": "1992G",
+  "name": "Ultra-Meow",
+  "topics": [
+   "combinatorics",
+   "dp",
+   "math"
+  ],
+  "solved-by": 2292,
+  "difficulty": 2000
+ },
+ {
+  "id": "1992F",
+  "name": "Valuable Cards",
+  "topics": [
+   "brute force",
+   "dp",
+   "greedy",
+   "number theory",
+   "two pointers"
+  ],
+  "solved-by": 4665,
+  "difficulty": 1900
+ },
+ {
+  "id": "1992E",
+  "name": "Novice's Mistake",
+  "topics": [
+   "brute force",
+   "constructive algorithms",
+   "implementation",
+   "math",
+   "strings"
+  ],
+  "solved-by": 7765,
+  "difficulty": 1700
+ },
+ {
+  "id": "1992D",
+  "name": "Test of Love",
+  "topics": [
+   "dp",
+   "greedy",
+   "implementation"
+  ],
+  "solved-by": 17503,
+  "difficulty": 1200
+ },
+ {
+  "id": "1992C",
+  "name": "Gorilla and Permutation",
+  "topics": [
+   "constructive algorithms",
+   "math"
+  ],
+  "solved-by": 25530,
+  "difficulty": 900
+ },
+ {
+  "id": "1992B",
+  "name": "Angry Monk",
+  "topics": [
+   "greedy",
+   "math",
+   "sortings"
+  ],
+  "solved-by": 30017,
+  "difficulty": 800
+ },
+ {
+  "id": "1992A",
+  "name": "Only Pluses",
+  "topics": [
+   "brute force",
+   "constructive algorithms",
+   "greedy",
+   "math",
+   "sortings"
+  ],
+  "solved-by": 35443,
+  "difficulty": 800
+ },
+ {
+  "id": "1991I",
+  "name": "Grid Game",
+  "topics": [
+   "constructive algorithms",
+   "games",
+   "greedy",
+   "interactive"
+  ],
+  "solved-by": 16,
+  "difficulty": 0
+ },
+ {
+  "id": "1991H",
+  "name": "Prime Split Game",
+  "topics": [
+   "fft",
+   "games",
+   "math",
+   "number theory"
+  ],
+  "solved-by": 70,
+  "difficulty": 0
+ },
+ {
+  "id": "1991G",
+  "name": "Grid Reset",
+  "topics": [
+   "constructive algorithms",
+   "greedy",
+   "implementation"
+  ],
+  "solved-by": 273,
+  "difficulty": 0
+ },
+ {
+  "id": "1991F",
+  "name": "Triangle Formation",
+  "topics": [
+   "brute force",
+   "greedy",
+   "math",
+   "sortings"
+  ],
+  "solved-by": 1376,
+  "difficulty": 0
+ },
+ {
+  "id": "1991E",
+  "name": "Coloring Game",
+  "topics": [
+   "constructive algorithms",
+   "games",
+   "graphs",
+   "greedy",
+   "interactive"
+  ],
+  "solved-by": 2784,
+  "difficulty": 0
+ },
+ {
+  "id": "1991D",
+  "name": "Prime XOR Coloring",
+  "topics": [
+   "bitmasks",
+   "constructive algorithms",
+   "graphs",
+   "greedy",
+   "math",
+   "number theory"
+  ],
+  "solved-by": 4189,
+  "difficulty": 0
+ },
+ {
+  "id": "1991C",
+  "name": "Absolute Zero",
+  "topics": [
+   "constructive algorithms",
+   "greedy",
+   "math"
+  ],
+  "solved-by": 10142,
+  "difficulty": 0
+ },
+ {
+  "id": "1991B",
+  "name": "AND Reconstruction",
+  "topics": [
+   "bitmasks",
+   "constructive algorithms",
+   "greedy"
+  ],
+  "solved-by": 12579,
+  "difficulty": 0
+ },
+ {
+  "id": "1991A",
+  "name": "Maximize the Last Element",
+  "topics": [
+   "greedy",
+   "implementation"
+  ],
+  "solved-by": 16885,
+  "difficulty": 0
+ },
+ {
+  "id": "1990F",
+  "name": "Polygonal Segments",
+  "topics": [
+   "brute force",
+   "data structures",
+   "divide and conquer",
+   "dp",
+   "greedy",
+   "two pointers"
+  ],
+  "solved-by": 160,
+  "difficulty": 2800
+ },
+ {
+  "id": "1990E2",
+  "name": "Catch the Mole(Hard Version)",
+  "topics": [
+   "binary search",
+   "data structures",
+   "dfs and similar",
+   "divide and conquer",
+   "interactive",
+   "trees"
+  ],
+  "solved-by": 631,
+  "difficulty": 2600
+ },
+ {
+  "id": "1990E1",
+  "name": "Catch the Mole(Easy Version)",
+  "topics": [
+   "binary search",
+   "data structures",
+   "dfs and similar",
+   "interactive",
+   "trees"
+  ],
+  "solved-by": 686,
+  "difficulty": 2500
+ },
+ {
+  "id": "1990D",
+  "name": "Grid Puzzle",
+  "topics": [
+   "bitmasks",
+   "brute force",
+   "dp",
+   "greedy",
+   "implementation"
+  ],
+  "solved-by": 4456,
+  "difficulty": 1800
+ },
+ {
+  "id": "1990C",
+  "name": "Mad MAD Sum",
+  "topics": [
+   "brute force",
+   "greedy",
+   "math"
+  ],
+  "solved-by": 8657,
+  "difficulty": 1500
+ },
+ {
+  "id": "1990B",
+  "name": "Array Craft",
+  "topics": [
+   "constructive algorithms",
+   "greedy"
+  ],
+  "solved-by": 13054,
+  "difficulty": 1200
+ },
+ {
+  "id": "1990A",
+  "name": "Submission Bait",
+  "topics": [
+   "brute force",
+   "games",
+   "greedy",
+   "sortings"
+  ],
+  "solved-by": 17849,
+  "difficulty": 900
+ },
+ {
+  "id": "1989F",
+  "name": "Simultaneous Coloring",
+  "topics": [
+   "dfs and similar",
+   "divide and conquer",
+   "graphs"
+  ],
+  "solved-by": 325,
+  "difficulty": 3000
+ },
+ {
+  "id": "1989E",
+  "name": "Distance to Different",
+  "topics": [
+   "combinatorics",
+   "dp",
+   "math"
+  ],
+  "solved-by": 1593,
+  "difficulty": 2300
+ },
+ {
+  "id": "1989D",
+  "name": "Smithing Skill",
+  "topics": [
+   "brute force",
+   "data structures",
+   "dp",
+   "greedy",
+   "math",
+   "sortings",
+   "two pointers"
+  ],
+  "solved-by": 5064,
+  "difficulty": 1900
+ },
+ {
+  "id": "1989C",
+  "name": "Two Movies",
+  "topics": [
+   "greedy",
+   "math"
+  ],
+  "solved-by": 15853,
+  "difficulty": 1400
+ },
+ {
+  "id": "1989B",
+  "name": "Substring and Subsequence",
+  "topics": [
+   "brute force",
+   "greedy",
+   "strings"
+  ],
+  "solved-by": 17743,
+  "difficulty": 1200
+ },
+ {
+  "id": "1989A",
+  "name": "Catch the Coin",
+  "topics": [
+   "implementation"
+  ],
+  "solved-by": 23850,
+  "difficulty": 800
+ },
+ {
+  "id": "1988F",
+  "name": "Heartbeat",
+  "topics": [
+   "combinatorics",
+   "dp",
+   "fft",
+   "math"
+  ],
+  "solved-by": 108,
+  "difficulty": 3000
+ },
+ {
+  "id": "1988E",
+  "name": "Range Minimum Sum",
+  "topics": [
+   "binary search",
+   "brute force",
+   "data structures",
+   "divide and conquer",
+   "implementation"
+  ],
+  "solved-by": 1055,
+  "difficulty": 2300
+ },
+ {
+  "id": "1988D",
+  "name": "The Omnipotent Monster Killer",
+  "topics": [
+   "brute force",
+   "dfs and similar",
+   "dp",
+   "trees"
+  ],
+  "solved-by": 3975,
+  "difficulty": 2000
+ },
+ {
+  "id": "1988C",
+  "name": "Increasing Sequence with Fixed OR",
+  "topics": [
+   "bitmasks",
+   "constructive algorithms",
+   "greedy"
+  ],
+  "solved-by": 13938,
+  "difficulty": 1300
+ },
+ {
+  "id": "1988B",
+  "name": "Make Majority",
+  "topics": [
+   "greedy",
+   "implementation"
+  ],
+  "solved-by": 19335,
+  "difficulty": 900
+ },
+ {
+  "id": "1988A",
+  "name": "Split the Multiset",
+  "topics": [
+   "brute force",
+   "greedy",
+   "implementation",
+   "math"
+  ],
+  "solved-by": 19802,
+  "difficulty": 900
+ },
+ {
+  "id": "1987H",
+  "name": "Fumo Temple",
+  "topics": [
+   "interactive"
+  ],
+  "solved-by": 72,
+  "difficulty": 3500
+ },
+ {
+  "id": "1987G2",
+  "name": "Spinning Round (Hard Version)",
+  "topics": [
+   "divide and conquer",
+   "dp",
+   "trees"
+  ],
+  "solved-by": 86,
+  "difficulty": 3500
+ },
+ {
+  "id": "1987G1",
+  "name": "Spinning Round (Easy Version)",
+  "topics": [
+   "divide and conquer",
+   "dp",
+   "trees"
+  ],
+  "solved-by": 204,
+  "difficulty": 2900
+ },
+ {
+  "id": "1987F2",
+  "name": "Interesting Problem (Hard Version)",
+  "topics": [
+   "dp"
+  ],
+  "solved-by": 853,
+  "difficulty": 2600
+ },
+ {
+  "id": "1987F1",
+  "name": "Interesting Problem (Easy Version)",
+  "topics": [
+   "dp"
+  ],
+  "solved-by": 964,
+  "difficulty": 2500
+ },
+ {
+  "id": "1987E",
+  "name": "Wonderful Tree!",
+  "topics": [
+   "brute force",
+   "data structures",
+   "dfs and similar",
+   "dsu",
+   "greedy",
+   "trees"
+  ],
+  "solved-by": 2825,
+  "difficulty": 2000
+ },
+ {
+  "id": "1987D",
+  "name": "World is Mine",
+  "topics": [
+   "dp",
+   "games"
+  ],
+  "solved-by": 6100,
+  "difficulty": 1800
+ },
+ {
+  "id": "1987C",
+  "name": "Basil's Garden",
+  "topics": [
+   "dp",
+   "greedy"
+  ],
+  "solved-by": 15284,
+  "difficulty": 1200
+ },
+ {
+  "id": "1987B",
+  "name": "K-Sort",
+  "topics": [
+   "greedy"
+  ],
+  "solved-by": 17977,
+  "difficulty": 1000
+ },
+ {
+  "id": "1987A",
+  "name": "Upload More RAM",
+  "topics": [
+   "greedy",
+   "math"
+  ],
+  "solved-by": 22650,
+  "difficulty": 800
+ },
+ {
+  "id": "1986G2",
+  "name": "Permutation Problem (Hard Version)",
+  "topics": [
+   "brute force",
+   "data structures",
+   "hashing",
+   "math",
+   "number theory"
+  ],
+  "solved-by": 874,
+  "difficulty": 2500
+ },
+ {
+  "id": "1986G1",
+  "name": "Permutation Problem (Simple Version)",
+  "topics": [
+   "binary search",
+   "brute force",
+   "combinatorics",
+   "data structures",
+   "math",
+   "number theory"
+  ],
+  "solved-by": 1239,
+  "difficulty": 2200
+ },
+ {
+  "id": "1986F",
+  "name": "Non-academic Problem",
+  "topics": [
+   "dfs and similar",
+   "graphs",
+   "trees"
+  ],
+  "solved-by": 3793,
+  "difficulty": 1900
+ },
+ {
+  "id": "1986E",
+  "name": "Beautiful Array",
+  "topics": [
+   "greedy",
+   "math",
+   "number theory",
+   "sortings"
+  ],
+  "solved-by": 7619,
+  "difficulty": 1700
+ },
+ {
+  "id": "1986D",
+  "name": "Mathematical Problem",
+  "topics": [
+   "brute force",
+   "dp",
+   "greedy",
+   "implementation",
+   "math",
+   "two pointers"
+  ],
+  "solved-by": 13592,
+  "difficulty": 1400
+ },
+ {
+  "id": "1986C",
+  "name": "Update Queries",
+  "topics": [
+   "data structures",
+   "greedy",
+   "sortings"
+  ],
+  "solved-by": 21055,
+  "difficulty": 1100
+ },
+ {
+  "id": "1986B",
+  "name": "Matrix Stabilization",
+  "topics": [
+   "brute force",
+   "data structures",
+   "greedy",
+   "sortings"
+  ],
+  "solved-by": 24443,
+  "difficulty": 1000
+ },
+ {
+  "id": "1986A",
+  "name": "X Axis",
+  "topics": [
+   "brute force",
+   "geometry",
+   "math",
+   "sortings"
+  ],
+  "solved-by": 36571,
+  "difficulty": 800
+ },
+ {
+  "id": "1985H2",
+  "name": "Maximize the Largest Component (Hard Version)",
+  "topics": [
+   "data structures",
+   "dfs and similar",
+   "dp",
+   "dsu",
+   "implementation"
+  ],
+  "solved-by": 1296,
+  "difficulty": 2200
+ },
+ {
+  "id": "1985H1",
+  "name": "Maximize the Largest Component (Easy Version)",
+  "topics": [
+   "brute force",
+   "data structures",
+   "dfs and similar",
+   "dsu",
+   "graphs",
+   "implementation"
+  ],
+  "solved-by": 4761,
+  "difficulty": 1700
+ },
+ {
+  "id": "1985G",
+  "name": "D-Function",
+  "topics": [
+   "combinatorics",
+   "math",
+   "number theory"
+  ],
+  "solved-by": 7997,
+  "difficulty": 1600
+ },
+ {
+  "id": "1985F",
+  "name": "Final Boss",
+  "topics": [
+   "binary search",
+   "data structures"
+  ],
+  "solved-by": 13195,
+  "difficulty": 1500
+ },
+ {
+  "id": "1985E",
+  "name": "Secret Box",
+  "topics": [
+   "brute force",
+   "combinatorics",
+   "math"
+  ],
+  "solved-by": 17868,
+  "difficulty": 1200
+ },
+ {
+  "id": "1985D",
+  "name": "Manhattan Circle",
+  "topics": [
+   "implementation",
+   "math"
+  ],
+  "solved-by": 31012,
+  "difficulty": 900
+ },
+ {
+  "id": "1985C",
+  "name": "Good Prefixes",
+  "topics": [
+   "greedy"
+  ],
+  "solved-by": 28639,
+  "difficulty": 1000
+ },
+ {
+  "id": "1985B",
+  "name": "Maximum Multiple Sum",
+  "topics": [
+   "brute force",
+   "math",
+   "number theory"
+  ],
+  "solved-by": 40754,
+  "difficulty": 800
+ },
+ {
+  "id": "1985A",
+  "name": "Creating Words",
+  "topics": [
+   "implementation",
+   "strings"
+  ],
+  "solved-by": 45659,
+  "difficulty": 800
+ },
+ {
+  "id": "1984H",
+  "name": "Tower Capturing",
+  "topics": [
+   "combinatorics",
+   "dp",
+   "geometry"
+  ],
+  "solved-by": 145,
+  "difficulty": 3300
+ },
+ {
+  "id": "1984G",
+  "name": "Magic Trick II",
+  "topics": [
+   "constructive algorithms",
+   "implementation",
+   "sortings"
+  ],
+  "solved-by": 201,
+  "difficulty": 3200
+ },
+ {
+  "id": "1984F",
+  "name": "Reconstruction",
+  "topics": [
+   "brute force",
+   "dp",
+   "math"
+  ],
+  "solved-by": 823,
+  "difficulty": 2500
+ },
+ {
+  "id": "1984E",
+  "name": "Shuffle",
+  "topics": [
+   "dp",
+   "greedy",
+   "trees"
+  ],
+  "solved-by": 1242,
+  "difficulty": 2400
+ },
+ {
+  "id": "1984D",
+  "name": "''a'' String Problem",
+  "topics": [
+   "brute force",
+   "hashing",
+   "implementation",
+   "math",
+   "string suffix structures",
+   "strings"
+  ],
+  "solved-by": 2888,
+  "difficulty": 2000
+ },
+ {
+  "id": "1984C2",
+  "name": "Magnitude (Hard Version)",
+  "topics": [
+   "combinatorics",
+   "dp",
+   "greedy",
+   "math"
+  ],
+  "solved-by": 6564,
+  "difficulty": 1700
+ },
+ {
+  "id": "1984C1",
+  "name": "Magnitude (Easy Version)",
+  "topics": [
+   "dp",
+   "greedy",
+   "math"
+  ],
+  "solved-by": 14759,
+  "difficulty": 1300
+ },
+ {
+  "id": "1984B",
+  "name": "Large Addition",
+  "topics": [
+   "implementation",
+   "math"
+  ],
+  "solved-by": 16774,
+  "difficulty": 1100
+ },
+ {
+  "id": "1984A",
+  "name": "Strange Splitting",
+  "topics": [
+   "constructive algorithms"
+  ],
+  "solved-by": 19739,
+  "difficulty": 800
+ },
+ {
+  "id": "1983G",
+  "name": "Your Loss",
+  "topics": [
+   "bitmasks",
+   "brute force",
+   "dp",
+   "trees"
+  ],
+  "solved-by": 171,
+  "difficulty": 3000
+ },
+ {
+  "id": "1983F",
+  "name": "array-value",
+  "topics": [
+   "binary search",
+   "bitmasks",
+   "data structures",
+   "greedy",
+   "two pointers"
+  ],
+  "solved-by": 972,
+  "difficulty": 2500
+ },
+ {
+  "id": "1983E",
+  "name": "I Love Balls",
+  "topics": [
+   "combinatorics",
+   "math",
+   "probabilities"
+  ],
+  "solved-by": 1712,
+  "difficulty": 2300
+ },
+ {
+  "id": "1983D",
+  "name": "Swap Dilemma",
+  "topics": [
+   "constructive algorithms",
+   "data structures",
+   "divide and conquer",
+   "greedy",
+   "math",
+   "sortings"
+  ],
+  "solved-by": 7148,
+  "difficulty": 1700
+ },
+ {
+  "id": "1983C",
+  "name": "Have Your Cake and Eat It Too",
+  "topics": [
+   "binary search",
+   "brute force",
+   "greedy",
+   "implementation"
+  ],
+  "solved-by": 10994,
+  "difficulty": 1400
+ },
+ {
+  "id": "1983B",
+  "name": "Corner Twist",
+  "topics": [
+   "constructive algorithms",
+   "greedy",
+   "implementation",
+   "math"
+  ],
+  "solved-by": 14557,
+  "difficulty": 1200
+ },
+ {
+  "id": "1983A",
+  "name": "Array Divisibility",
+  "topics": [
+   "constructive algorithms",
+   "math"
+  ],
+  "solved-by": 23616,
+  "difficulty": 800
+ }
+]
